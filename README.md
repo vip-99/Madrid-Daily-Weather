@@ -124,8 +124,8 @@ Cloud cover analysis shows periodic increases during certain days, often associa
 
 ***Wind speed pattern analysis***
 
-Cloud cover trends
+***Cloud cover trends***
 
-Interactive date and month filtering
+***Interactive date and month filtering***
 
-Summary KPIs for quick insights
+***Summary KPIs for quick insights***
