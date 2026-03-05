@@ -1,8 +1,9 @@
 # Madrid-Daily-Weather
 
-### Madrid Weather Analysis Dashboard (1997–2015)
+## Madrid Weather Analysis Dashboard (1997–2015)
 
-**Project Objective**
+
+## Project Objective
 
 The objective of this project is to analyze daily weather conditions in Madrid from 1997 to 2015 and identify climate patterns, seasonal variations, and weather trends.
 The analysis focuses on key meteorological variables such as maximum, minimum, and mean temperature, humidity, wind speed, visibility, pressure, dew point, precipitation events, cloud cover, and wind direction.
@@ -12,24 +13,34 @@ The analysis focuses on key meteorological variables such as maximum, minimum, a
 
 
 
-***Using data visualization and analytical techniques, the project aims to***:
+## Using data visualization and analytical techniques, the project aims to
 
 
-Understand temperature fluctuations and seasonal patterns
-Examine the relationship between humidity and atmospheric pressure
-Analyze wind speed and cloud cover variations
-Identify the distribution of weather events such as rain, fog, and thunderstorms
-Provide an interactive dashboard for better weather trend exploration.
+1. Understand temperature fluctuations and seasonal patterns
 
-***Tools Used***
-Power BI Desktop – Data visualization and dashboard creation
-Power Query – Data cleaning and transformation
-DAX (Data Analysis Expressions) – Creating calculated measures and KPIs
-Excel / CSV Dataset – Source data for weather records
+2. Examine the relationship between humidity and atmospheric pressure
+
+3. Analyze wind speed and cloud cover variations
+
+4. Identify the distribution of weather events such as rain, fog, and thunderstorms
+
+5. Provide an interactive dashboard for better weather trend exploration.
 
 
 
-***Key DAX Measures Used***
+## Tools Used
+
+1. Power BI Desktop – Data visualization and dashboard creation
+
+2. Power Query – Data cleaning and transformation
+
+3. DAX (Data Analysis Expressions) – Creating calculated measures and KPIs
+
+4. Excel / CSV Dataset – Source data for weather records
+
+
+
+## Key DAX Measures Used
 
 Average Maximum Temperature
 
