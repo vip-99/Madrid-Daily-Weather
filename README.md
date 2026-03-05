@@ -116,13 +116,13 @@ Cloud cover analysis shows periodic increases during certain days, often associa
 
 ## Dashboard Features
 
-Temperature trend analysis (Max, Min, Mean)
+***Temperature trend analysis (Max, Min, Mean)***
 
-Humidity vs Sea-Level Pressure comparison
+***Humidity vs Sea-Level Pressure comparison***
 
-Weather event distribution visualization
+***Weather event distribution visualization***
 
-Wind speed pattern analysis
+***Wind speed pattern analysis***
 
 Cloud cover trends
 
