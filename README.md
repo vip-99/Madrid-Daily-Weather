@@ -43,38 +43,46 @@ The analysis focuses on key meteorological variables such as maximum, minimum, a
 ## Key DAX Measures Used
 
 Average Maximum Temperature
-
+```
 Avg Max Temp = AVERAGE(Weather[Max_TemperatureC])
+```
 
 Average Humidity
-
+```
 Avg Humidity = AVERAGE(Weather[Humidity])
+```
 
 Average Wind Speed
-
+```
 Avg Wind Speed = AVERAGE(Weather[Wind_SpeedKm_h])
+```
 
 Average Pressure
-
+```
 Avg Pressure = AVERAGE(Weather[Sea_Level_PressurehPa])
+```
 
 Rain Days
-
+```
 Rain Days =
 CALCULATE(
     COUNTROWS(Weather),
     Weather[Events] = "Rain"
 )
+```
 
 Days of Data (Based on Selected Date Range)
-
+```
 Days of Data =
 DATEDIFF(
     MIN('Date'[Date]),
     MAX('Date'[Date]),
     DAY
 )
-Key Insights
+```
+
+
+## Key Insights
 1. Clear Weather Dominates Madrid
 
 The analysis shows that clear weather conditions occur nearly 80% of the time, indicating that Madrid experiences predominantly stable and sunny weather throughout the year. Rain, fog, and thunderstorms make up a relatively small percentage of weather events.
