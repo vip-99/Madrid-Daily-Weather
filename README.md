@@ -3,11 +3,18 @@
 ### Madrid Weather Analysis Dashboard (1997–2015)
 
 **Project Objective**
+
 The objective of this project is to analyze daily weather conditions in Madrid from 1997 to 2015 and identify climate patterns, seasonal variations, and weather trends.
 The analysis focuses on key meteorological variables such as maximum, minimum, and mean temperature, humidity, wind speed, visibility, pressure, dew point, precipitation events, cloud cover, and wind direction.
 
 
+
+
+
+
 ***Using data visualization and analytical techniques, the project aims to***:
+
+
 Understand temperature fluctuations and seasonal patterns
 Examine the relationship between humidity and atmospheric pressure
 Analyze wind speed and cloud cover variations
